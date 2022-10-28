@@ -1,4 +1,4 @@
-#include "mainn.h"
+#include "main.h"
 /**
  * get_bit - This function returns the value of a bit ar a given index
  * @n: a string of 0 and 1 chars
